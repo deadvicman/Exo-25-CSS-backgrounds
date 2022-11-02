@@ -1,0 +1,30 @@
+img {
+    width: 200px;
+    height: 200px;
+    border: dashed red;
+}
+.container img{
+    border: solid;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px red;
+}
+.un img{
+    border: 1rem solid;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px red;
+}
+.deux img{
+    border: thick double #32a1ce;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px red;
+}
+.trois img{
+    border:thick double #20f520;
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px red;
+}
+.quatre img{
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px red;
+}
